@@ -1,1 +1,0 @@
-# Sentimental-analysis-for-reviews-using-NLP-and-Flask
